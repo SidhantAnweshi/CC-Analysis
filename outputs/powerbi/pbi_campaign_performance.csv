@@ -1,0 +1,6 @@
+campaign_id,campaign_name,target_category,n_enrolled,n_redeemed,redemption_rate_pct,spend_lift_pct,incremental_revenue,extra_cashback_cost,campaign_cost_inr,net_campaign_pnl,roi_pct
+CP001,New Year Dining Boost,Dining,2372,1508,63.6,13.84,397.16,1323.85,500000,-500926.7,-100.19
+CP002,Travel Season Offer,Travel,1637,1050,64.1,-1.63,0.0,0.0,800000,-800000.0,-100.0
+CP003,Festive Shopping Cashback,Shopping,8000,5268,65.8,-2.01,0.0,0.0,1200000,-1200000.0,-100.0
+CP004,Fuel Saver Program,Fuel,3192,2045,64.1,-1.09,0.0,0.0,400000,-400000.0,-100.0
+CP005,Premium Dining Rewards,Dining,797,527,66.1,-9.6,0.0,0.0,750000,-750000.0,-100.0

@@ -1,0 +1,11 @@
+KPI,Value,Format
+Total Customers,20000.0,number
+Total Transactions,489762.0,number
+Total Spend (INR),1118761352.28,currency
+Total Cashback Cost (INR),12176810.27,currency
+Total Interchange Revenue,17338878.1,currency
+Total Net Profit (INR),55803667.94,currency
+Portfolio Margin (%),57.19,percent
+Profitable Customers (%),100.0,percent
+Avg Txn Amount (INR),2284.3,currency
+Top-10% Profit Contribution,40.2,percent

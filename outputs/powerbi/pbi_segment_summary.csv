@@ -1,0 +1,5 @@
+segment,customers,avg_spend,avg_txn_count,avg_recency_days,avg_net_profit,total_net_profit
+At-Risk,5529,29747.05,13.48,54.41,2687.26,14857839.42
+Champion,6024,98154.3,42.06,13.04,2925.46,17622955.67
+Dormant,2234,14402.07,7.16,161.48,2554.21,5706113.95
+Loyal,6213,53248.71,23.48,28.68,2835.47,17616758.9
